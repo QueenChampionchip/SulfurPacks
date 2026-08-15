@@ -1,0 +1,11 @@
+eventNumber: 3
+
+Packs:
+
+  Main:
+    MAIN: 25
+    MAIN_HASH: f63ef0d2e6aea66bde4a5459655c6795f8a3b0a8
+
+    SOT: 1
+    SOT: 1
+    SOT_HASH: ca3e4ee516390d663bd2f9df1dd795c1662cc2d6
