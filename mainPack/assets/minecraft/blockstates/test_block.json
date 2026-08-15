@@ -2,16 +2,16 @@
   "variants": {
 
     "mode=accept": {
-      "model": "siege:ar/turtle"
+      "model": "sulfur:ar/turtle"
     },
     "mode=fail": {
-      "model": "siege:ar/turtle"
+      "model": "sulfur:ar/turtle"
     },
     "mode=log": {
-      "model": "siege:ar/turtle"
+      "model": "sulfur:ar/turtle"
     },
     "mode=start": {
-      "model": "siege:ar/turtle"
+      "model": "sulfur:ar/turtle"
     }
 
   }

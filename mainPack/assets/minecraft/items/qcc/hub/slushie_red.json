@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/slushie_red",
+        "model": "sulfur:hub/slushie_red",
         "tints": [
             {
                 "type": "minecraft:potion",

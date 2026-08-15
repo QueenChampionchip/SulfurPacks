@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/birthday_banner",
+        "model": "sulfur:hub/birthday_banner",
         "tints": [
             {
                 "type": "minecraft:potion",

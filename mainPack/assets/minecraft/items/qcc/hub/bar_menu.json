@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/bar_menu"
+        "model": "sulfur:hub/bar_menu"
     }
 }

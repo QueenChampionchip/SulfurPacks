@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/popcorn_cart"
+        "model": "sulfur:hub/popcorn_cart"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/coin"
+        "model": "sulfur:hub/coin"
     }
 }

@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/tiki_sunbed",
+        "model": "sulfur:hub/tiki_sunbed",
         "tints": [
             {
                 "type": "minecraft:potion",

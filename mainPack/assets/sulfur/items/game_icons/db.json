@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:game_icons/db"
+        "model": "sulfur:game_icons/db"
     }
 }

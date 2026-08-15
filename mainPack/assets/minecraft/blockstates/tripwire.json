@@ -103,7 +103,7 @@
       "model": "minecraft:block/pads/slow_vine"
     },
     "disarmed=false,attached=true,east=true,north=true,south=true,west=true": {
-      "model": "siege:ar/turtle"
+      "model": "sulfur:ar/turtle"
     }
   }
 }

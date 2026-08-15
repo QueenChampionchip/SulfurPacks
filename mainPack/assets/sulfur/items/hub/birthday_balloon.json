@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/birthday_balloon",
+        "model": "sulfur:hub/birthday_balloon",
         "tints": [
             {
                 "type": "minecraft:potion",

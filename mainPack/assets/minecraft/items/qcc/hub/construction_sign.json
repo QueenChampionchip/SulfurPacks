@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/construction_sign"
+        "model": "sulfur:hub/construction_sign"
     }
 }

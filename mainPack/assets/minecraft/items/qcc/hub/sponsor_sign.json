@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/sponsor_sign"
+        "model": "sulfur:hub/sponsor_sign"
     }
 }

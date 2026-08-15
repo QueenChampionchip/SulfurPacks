@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/coconut_drink",
+        "model": "sulfur:hub/coconut_drink",
         "tints": [
             {
                 "type": "minecraft:potion",

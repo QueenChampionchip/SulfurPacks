@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/totem_zombie"
+        "model": "sulfur:hub/totem_zombie"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/pool_ladder"
+        "model": "sulfur:hub/pool_ladder"
     }
 }

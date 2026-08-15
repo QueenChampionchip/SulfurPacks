@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "siege:hub/tiki_plant"
+        "model": "sulfur:hub/tiki_plant"
     }
 }

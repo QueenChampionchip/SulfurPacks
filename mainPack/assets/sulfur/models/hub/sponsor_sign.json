@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "siege:custom/hub/sponsor_sign",
-    "particle": "siege:custom/hub/sponsor_sign"
+    "0": "sulfur:custom/hub/sponsor_sign",
+    "particle": "sulfur:custom/hub/sponsor_sign"
   },
   "elements": [
     {

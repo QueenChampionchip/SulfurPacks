@@ -708,7 +708,7 @@
     },
     {
       "type": "bitmap",
-      "file": "siege:custom/_font/transition.png",
+      "file": "sulfur:custom/_font/transition.png",
       "ascent": 250,
       "height": 1200,
       "chars": ["\uFDFF"]

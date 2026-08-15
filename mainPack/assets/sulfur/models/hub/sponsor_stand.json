@@ -5,8 +5,8 @@
     48
   ],
   "textures": {
-    "0": "siege:custom/hub/sponsor_stand",
-    "particle": "siege:custom/hub/sponsor_stand"
+    "0": "sulfur:custom/hub/sponsor_stand",
+    "particle": "sulfur:custom/hub/sponsor_stand"
   },
   "elements": [
     {

@@ -1,7 +1,7 @@
 {
   "textures": {
-    "0": "siege:custom/2",
-    "particle": "siege:custom/2"
+    "0": "sulfur:custom/2",
+    "particle": "sulfur:custom/2"
   },
   "display": {
     "head": {
